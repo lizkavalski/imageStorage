@@ -1,2 +1,3 @@
 # imageStote
-testing
+testing 
+placing photos here
