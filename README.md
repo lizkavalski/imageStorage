@@ -9,6 +9,6 @@ Visual
 * [Trees](visual/tre/README.md)
 
 PseudoCode
-* [Array](pseudo/arrays)
-* [Linked List](pseudo/linkedlist)
+* [Array](pseudo/arrays/README.md)
+* [Linked List](pseudo/linkedlist/README.md)
 * [Trees](pseudo/tree)

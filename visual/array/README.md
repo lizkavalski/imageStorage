@@ -4,5 +4,6 @@
 * [Two Sum](twoSum.png)
 * [Valid Monutain Array](mountainArray.png)
 
+<hr>
 
 [Back to Main Table of Constents](../../README.md)
