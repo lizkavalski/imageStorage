@@ -6,7 +6,7 @@ Visual
 
 * [Array](visual/array/README.md)
 * [Linked List](visual/linkedList/README.md)
-* [Trees](visual/tre/README.md)
+* [Trees](visual/tree/README.md)
 
 PseudoCode
 * [Array](pseudo/arrays/README.md)
