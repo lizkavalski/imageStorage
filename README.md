@@ -4,7 +4,7 @@ A place to store images used for [Code Challenge Flash Cards- Backend](https://g
 ## Table of Contents
 Visual
 
-* [Array](visual/array/README)
+* [Array](visual/array/README.md)
 * [Linked List](visual/linkedList/README.md)
 * [Trees](visual/tre/README.md)
 
