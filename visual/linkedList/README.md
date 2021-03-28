@@ -1,5 +1,5 @@
 # Visual: Linked List
-* [Conver Sorted Linked List to a Binary Serch Tree](convertLLtoBST.png)
+* [Conver Sorted Linked List to a Binary Serch Tree](convertLLtoBST(1).png)
 * [Delete a Node in a Linked List](deletell.png)
 * [Middle of the Linked List](middleLL.png)
 * [Remove Duplicates from a Sorted Linked List](removeDup(1).png)
