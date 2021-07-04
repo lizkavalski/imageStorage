@@ -11,4 +11,13 @@ A place to store images used for [Code Challenge Flash Cards- Backend](https://g
 ### PseudoCode
 * [Array](pseudo/arrays/README.md)
 * [Linked List](pseudo/linkedlist/README.md)
-* [Trees](pseudo/tree)
+* [Trees](pseudo/tree/README.md)
+
+### Store 
+*Images used for a mock store and sorted by catagory* 
+* [Books](store/books/README.md)
+* [Food](store/food/README.md)
+* [Fragrance](store/fragance/README.md)
+* [Medical](store/medical/README.md)
+* [Music](store/music/README.md)
+
