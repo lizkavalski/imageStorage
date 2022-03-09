@@ -28,6 +28,8 @@
 
 [goodbye3](./songs/goodbye3.png)
 
+[goodbye4](./songs/goodbye4.png)
+
 [clean-up 1](./songs/clean-up1.png)
 
 [clean-up 2](./songs/clean-up2.png)
