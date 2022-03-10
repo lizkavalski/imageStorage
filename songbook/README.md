@@ -37,3 +37,9 @@
 [clean-up 3](./songs/clean-up3.png)
 
 [weather](./songs/weather1.png)
+
+[weather1](./songs/weather2.png)
+
+[rain](./songs/)
+
+[rain1](./songs/)
