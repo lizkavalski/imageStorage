@@ -22,5 +22,5 @@ A place to store images used for [Code Challenge Flash Cards- Backend](https://g
 * [Music](store/music/README.md)
 
 ### SongBook
-[table of content](songbook/contents/)
+[table of content](songbook/README.md)
 
